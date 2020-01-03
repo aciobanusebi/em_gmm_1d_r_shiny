@@ -1,0 +1,12 @@
+name: emApp
+title: emApp
+username:
+account: ml-fii
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 657511
+bundleId: 2686645
+url: https://ml-fii.shinyapps.io/emApp/
+when: 1577034869.43003
+asMultiple: FALSE
+asStatic: FALSE
